@@ -32,6 +32,7 @@ Projects in this repository are built using:
 ---
 
 ## Folder Structure
+```
 JAVASCRIPT-PROJECT
 │
 ├── BMI Calculator
@@ -44,8 +45,7 @@ JAVASCRIPT-PROJECT
 ├── Guess the Number
 ├── Keyboard Events
 ├── Unlimited Color
-
-
+```
 ---
 
 ## How to Run the Projects
